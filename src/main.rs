@@ -1,16 +1,7 @@
-use axum::{routing::get, Router};
+use hello_world::run;
 
 #[tokio::main]
 
 async fn main() {
-    let app = Router::new().route("/", get(hello_world));
-
-    axum::Server::bind(&"0.0.0.0:3000".parse().unwrap())
-        .serve(app.into_make_service())
-        .await
-        .unwrap()
-}
-
-async fn hello_world() -> String {
-    "Hello wrold!!!!!!".to_owned()
+    run().await
 }

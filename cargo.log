@@ -1,3 +1,44 @@
-   Compiling hello_world v0.1.0 (/home/pau/dev/rust-lang/hello_world)
-    Finished dev [unoptimized + debuginfo] target(s) in 1.35s
+    Finished dev [unoptimized + debuginfo] target(s) in 0.03s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.03s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
+     Running `target/debug/hello_world`
+    Finished dev [unoptimized + debuginfo] target(s) in 0.02s
      Running `target/debug/hello_world`
