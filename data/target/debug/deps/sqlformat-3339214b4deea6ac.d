@@ -1,0 +1,10 @@
+/home/paugarcia32/dev/axum-course/data/target/debug/deps/sqlformat-3339214b4deea6ac.rmeta: /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/lib.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/formatter.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/indentation.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/inline_block.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/params.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/tokenizer.rs
+
+/home/paugarcia32/dev/axum-course/data/target/debug/deps/sqlformat-3339214b4deea6ac.d: /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/lib.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/formatter.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/indentation.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/inline_block.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/params.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/tokenizer.rs
+
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/lib.rs:
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/formatter.rs:
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/indentation.rs:
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/inline_block.rs:
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/params.rs:
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlformat-0.2.1/src/tokenizer.rs:

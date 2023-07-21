@@ -1,0 +1,9 @@
+/home/paugarcia32/dev/axum-course/data/target/debug/deps/libsea_query_derive-4a1b7ce97eeb2e93.so: /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/lib.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/error.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/iden_attr.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/iden_path.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/iden_variant.rs
+
+/home/paugarcia32/dev/axum-course/data/target/debug/deps/sea_query_derive-4a1b7ce97eeb2e93.d: /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/lib.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/error.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/iden_attr.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/iden_path.rs /home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/iden_variant.rs
+
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/lib.rs:
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/error.rs:
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/iden_attr.rs:
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/iden_path.rs:
+/home/paugarcia32/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.3.0/src/iden_variant.rs:
