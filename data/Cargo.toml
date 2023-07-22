@@ -9,4 +9,8 @@ edition = "2021"
 dotenvy = "0.15.7"
 dotenvy_macro = "0.15.7"
 sea-orm = { version = "0.11.3", features = ["sqlx-postgres", "runtime-tokio-rustls"] }
-tokio = { version = "1.29.1", features = ["full"] }
+tokio = { version = "1.29.1", features = ["full", "macros", "rt-multi-thread"] }
+axum = { version = "0.6.18", features = ["headers"] }
+serde = { version = "1.0.171", features = ["derive"] }
+
+tower-http = { version = "0.4.1", features = ["cors"] }
